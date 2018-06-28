@@ -1,0 +1,15 @@
+# Autosave files
+*.ASV
+
+# Built on Compile Files
+*.smft
+*.zip
+*.sm2
+
+# Log Files
+*.log
+
+#System Files
+*.ini
+
+#GUI Files
